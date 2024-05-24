@@ -80,48 +80,48 @@ function resetState() {
 
 const questions = [
     {
-        "question": "Який тег використовується для організації блокових елементів на веб-сторінці?",
+        "question": "Яка всесвітньо відома ігрова франшиза була започаткована в 1985 році?",
         "answers": [
-            {"answer": "a", "isCorrect": false},
-            {"answer": "div", "isCorrect": true},
-            {"answer": "img", "isCorrect": false},
-            {"answer": "p", "isCorrect": false}
+            {"answer": "Sonic the Hedgehog", "isCorrect": false},
+            {"answer": "Super Mario", "isCorrect": true},
+            {"answer": "Metal Gear", "isCorrect": false},
+            {"answer": "Castlevania", "isCorrect": false}
         ]
     },
     {
-        "question": "Який тег використовується для створення гіперпосилань?",
+        "question": "Як називалась перша ігрова консоль Nintendo на якій вийшли культові ігри як Super Mario Bros, Mega Man та ін.?",
         "answers": [
-          {"answer": "a", "isCorrect": true},
-          {"answer": "div", "isCorrect": false},
-          {"answer": "span", "isCorrect": false},
-          {"answer": "p", "isCorrect": false}
+          {"answer": "NES", "isCorrect": true},
+          {"answer": "Dendy", "isCorrect": false},
+          {"answer": "Atari 2600", "isCorrect": false},
+          {"answer": "Family Computer", "isCorrect": true}
         ]
       },
       {
-        "question": "Який тег використовується для зображення на веб-сторінці?",
+        "question": "В якому році розвалився Радянський Союз?",
         "answers": [
-          {"answer": "a", "isCorrect": false},
-          {"answer": "div", "isCorrect": false},
-          {"answer": "img", "isCorrect": true},
-          {"answer": "p", "isCorrect": false}
+          {"answer": "1921", "isCorrect": false},
+          {"answer": "1998", "isCorrect": false},
+          {"answer": "1991", "isCorrect": true},
+          {"answer": "1988", "isCorrect": false}
         ]
       },
       {
-        "question": "Який тег використовується для групування елементів в рядок?",
+        "question": "Яка мова має найбільше носіїв?",
         "answers": [
-          {"answer": "a", "isCorrect": false},
-          {"answer": "div", "isCorrect": false},
-          {"answer": "span", "isCorrect": true},
-          {"answer": "p", "isCorrect": false}
+          {"answer": "Español", "isCorrect": false},
+          {"answer": "普通话", "isCorrect": false},
+          {"answer": "English", "isCorrect": true},
+          {"answer": "Français", "isCorrect": false}
         ]
       },
       {
-        "question": "Який тег використовується для відображення текстового вмісту на веб-сторінці?",
+        "question": "Яка мова вважається найтяжчою для вивчення?",
         "answers": [
-          {"answer": "a", "isCorrect": false},
-          {"answer": "div", "isCorrect": false},
-          {"answer": "span", "isCorrect": false},
-          {"answer": "p", "isCorrect": true}
+          {"answer": "Finnish", "isCorrect": false},
+          {"answer": "English", "isCorrect": false},
+          {"answer": "普通话", "isCorrect": false},
+          {"answer": "Magyar", "isCorrect": true}
         ]
       }
 ]
